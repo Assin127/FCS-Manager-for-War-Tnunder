@@ -1,0 +1,12 @@
+"<ID|readonly|noverify>";"<English>";"<French>";"<Italian>";"<German>";"<Spanish>";"<Russian>";"<Polish>";"<Czech>";"<Turkish>";"<Chinese>";"<Japanese>";"<Portuguese>";"<Ukrainian>";"<Serbian>";"<Hungarian>";"<Korean>";"<Belarusian>";"<Romanian>";"<TChinese>";"<HChinese>";"<Comments>";"<max_chars>"
+"Rangefinder";"Rangefinder";"Télémètre";"Telemetro";"Entfernungsmesser";"Telémetro";"Дальномер";"Dalmierz";"Dálkoměr";"Mesafe bulucu";"测距仪";"測距儀";"Telémetro";"Далекомір";"Daljinomer";"Távolságmérő";"거리 측정기";"Дальнамер";"Telemetrie";"測距儀";"测距仪";;
+"Target lock";"Target lock";"Verrouillage cible";"Aggancio bersaglio";"Ziel erfassen";"Fijar objetivo";"Захват цели";"Namierz cel";"Target lock";"Target lock";"锁定目标";"目標のロック";"Bloquear alvo";"Захоплення цілі";"Target lock";"Célpont bemérés";"목표 추적";"Захват цели";"Target lock";"鎖定目標";"锁定目标";;
+"ON";"ON";"ACTIVÉ";"ON";"AN";"ENCENDIDO";"ВКЛ";"WŁĄCZONE";"ZAP";"AÇIK";"开";"オン";"LIGADO";"УВІМК";"UKLJUČENO";"BE";"켜기";"УКЛ";"ACTIVATĂ";"開";"开";;
+"Distance";"Distance";"Distance";"Distanza";"Distanz";"Distancia";"Дистанция";"Odległość";"Vzdálenost";"Mesafe";"距离";"距離";"Distância";"Дистанція";"Razdaljina";"Távolság";"거리";"Дыстанцыя";"Distanța";"距離";"距离";;
+"Meters";"m";"m";"m";"m";"m";"м";"m";"m";"m";"米";"m";"m";"м";"m";"m";"m";"м";"m";"公尺";"米";;
+"Seconds";"s";"s";"sec.";"s";"seg";"с";"s";"s";"sn";"秒";"秒";"s";"с";"s";"mp";"초";" с";"s";"秒";"秒";;
+"MPerSec";"m/s";"m/s";"m/s";"m/sek";"m/s";"м/с";"m/s";"m/s";"m/sn";"m/s";"m/秒";"m/s";"м/с";"m/s";"m/s";"m/s";"м/с";"m/s";"公尺/秒";"米/秒";;
+"Millimeters";"mm";"mm";"mm";"mm";"mm";"мм";"mm";"mm";"mm";"毫米";"mm";"mm";"мм";"mm";"mm";"mm";"мм";"mm";"毫米";"毫米";;
+"Length";"L";"L";"L";"L";"L";"Д";"L";"L";"L";"长度";"長さ";"L";"Д";"L";"L";"길이";"Д";"L";"长度";"长度";;
+"Width";"W";"W";"W";"W";"W";"Ш";"W";"W";"W";"宽度";"幅";"W";"Ш";"W";"W";"폭";"Ш";"W";"宽度";"宽度";;
+"Height";"H";"H";"H";"H";"H";"В";"H";"H";"H";"高度";"高さ";"H";"В";"H";"H";"고도";"В";"H";"高度";"高度";;

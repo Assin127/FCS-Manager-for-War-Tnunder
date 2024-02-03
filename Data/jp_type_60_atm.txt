@@ -1,0 +1,13 @@
+WeaponPath:gameData/Weapons/groundModels_weapons/120mm_Type_64_MAT_rocket_launcher.blkx
+ZoomIn:9.21
+ZoomOut:10.21
+
+Name:120mm_type64
+Type:atgm_tank
+BulletMass:15.7
+BallisticCaliber:0.12
+Speed:85.0
+Cx:0.38
+ExplosiveMass:3.47
+ExplosiveType:comp_b
+ArmorPower:500.0
